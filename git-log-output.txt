@@ -1,0 +1,37 @@
+commit e3c413f427b46a1f8144b6e98d69dc43ec87f07e
+Author: Alissa <am4288@njit.edu>
+Date:   Sat Feb 14 23:30:05 2026 +0000
+
+    Revert "Added example text file"
+    
+    This reverts commit 43201127cabde8c63ab6f50fdc04b8a886e6883e.
+
+commit 43201127cabde8c63ab6f50fdc04b8a886e6883e
+Author: Alissa <am4288@njit.edu>
+Date:   Sat Feb 14 23:28:35 2026 +0000
+
+    Added example text file
+
+commit c314bd3c049ccc39e6068a88da4ca711f9dbb98c
+Author: Alissa <am4288@njit.edu>
+Date:   Sat Feb 14 23:26:47 2026 +0000
+
+    Added comment to hostname
+
+commit cff9d1cb50b4975ca1faa72c490ab7bf973f3f54
+Author: Alissa <am4288@njit.edu>
+Date:   Sat Feb 14 23:05:17 2026 +0000
+
+    Added test message to os release
+
+commit ce9bd14e9cd5893e7bbee70d01fbc3e0a39d1dba
+Author: Alissa <am4288@njit.edu>
+Date:   Sat Feb 14 23:02:54 2026 +0000
+
+    Committed system files
+
+commit f0217c0cc09d117f25e0a5ac7892930a1aa53bf3
+Author: Alissa <am4288@njit.edu>
+Date:   Sat Feb 14 22:55:25 2026 +0000
+
+    Initial commit
